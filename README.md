@@ -1,9 +1,9 @@
-# project_Oscars
+# project: Streaming Growth in Oscarrs 
 
 This is a project for Lede week5. I recreated the Oscars related dataset and analyzed the awarrd trend, 
 especially how streaming companies are gaining their presense.
 
-## Project: Streaming growth among Oscars
+## article based on this prroject
 https://docs.google.com/document/d/11VDyxW802AzJz1md2CiFPhik2b9WPuvEUo-dBDGRt2w/edit?usp=sharing
 
 ---
